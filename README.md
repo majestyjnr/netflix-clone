@@ -1,5 +1,5 @@
 # Netflix Clone Built With React
 
 
-# NB
+# Please Note:
 ## This project is currently under development
